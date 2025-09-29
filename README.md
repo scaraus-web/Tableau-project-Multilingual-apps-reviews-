@@ -17,7 +17,7 @@ How does verification of purchases impact trust in reviews?
 
 What global regions rate apps higher or lower, and why?
 
-🛠 Methods
+Methods
 
 Python (Pandas + Regex): Data cleaning, duplicate removal, normalization.
 
